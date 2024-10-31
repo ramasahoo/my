@@ -1,14 +1,8 @@
 
 # RamaChandra Sahoo
 
-### Writer | Public Speaker | Storyteller
-
----
-
-## About Me  
-
-Hello! I'm Ramachandra Sahoo, a writer dedicated to exploring stories that connect, inspire, and illuminate. I believe in the power of words to transform perspectives and evoke emotion. 
-Whether I'm crafting narratives, sharing experiences, or diving deep into research, my goal is always to leave readers with something meaningful.
+Hello! I'm Ramachandra Sahoo, a writer who believes in the transformative power of words to connect, inspire, and evoke emotion.
+Through every story or poem, I aim to leave readers with something meaningful.
 
 ---
 
@@ -36,7 +30,7 @@ Whether I'm crafting narratives, sharing experiences, or diving deep into resear
 
 ---
 
-# Contact
+# Thank you
 
 > _"A favorite quote about writing, creativity, or something meaningful."_  
 > — Ramachandra Sahoo

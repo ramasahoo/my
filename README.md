@@ -23,8 +23,8 @@
 
 ## About Me
 
-Hello! I'm Ramachandra Sahoo, a writer who believes in the transformative power of words to connect, inspire, and evoke emotion.
-Through every story or poem, I aim to leave readers with something meaningful.
+Hello! I'm a Teacher, writer and public speaker who believes in the transformative power of words to connect, inspire, and evoke emotion.
+Through every poem or story, I aim to leave readers with a deeper sense of life’s purpose and duty to God.
 
 ---
 

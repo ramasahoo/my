@@ -1,14 +1,4 @@
-
-# RamaChandra Sahoo
-
-Hello! I'm Ramachandra Sahoo, a writer who believes in the transformative power of words to connect, inspire, and evoke emotion.
-Through every story or poem, I aim to leave readers with something meaningful.
-
----
-
-<h1 align="center">ବିଦଗ୍ଧ ବକୁଳ</h1>
-
-<p align="center">
+# ବିଦଗ୍ଧ ବକୁଳ
 
 ହାଡ଼ ଥରା ମାଘୁଆ ସକାଳେ  
 ଚିତ୍ରା ନଈ ଖୋଲୁଥିଲା ବେଣୀ  
@@ -29,7 +19,13 @@ Through every story or poem, I aim to leave readers with something meaningful.
 ମହକିତ କମ୍ର ଆମ୍ର ଆହ୍ଳାଦ ବକୁଳ  
 
 (ରାମଚନ୍ଦ୍ର)
-</p>
+
+---
+
+## About Me
+
+Hello! I'm Ramachandra Sahoo, a writer who believes in the transformative power of words to connect, inspire, and evoke emotion.
+Through every story or poem, I aim to leave readers with something meaningful.
 
 ---
 

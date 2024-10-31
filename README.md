@@ -30,5 +30,5 @@ Through every poem or story, I aim to leave readers with a deeper sense of lifeâ
 
 # Thank you
 
-> _"A favorite quote about writing, creativity, or something meaningful."_  
+> _"sakala ra chandra, seetala pavana, asankhya tara."_  
 > â€” Ramachandra Sahoo

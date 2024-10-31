@@ -23,7 +23,7 @@
 
 ## About Me
 
-Hello! I'm a Teacher, writer and public speaker who believes in the transformative power of words to connect, inspire, and evoke emotion.
+Hello! I'm a Teacher, writer and a public speaker who believes in the transformative power of words to connect, inspire, and evoke emotion.
 Through every poem or story, I aim to leave readers with a deeper sense of life’s purpose and duty to God.
 
 ---

@@ -1,1 +1,0 @@
-# bhari ghasa

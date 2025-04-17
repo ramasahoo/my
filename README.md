@@ -33,5 +33,5 @@ Through every poem or story, I aim to leave readers with a deeper sense of life�
 
 # Thank you
 
-> _"sakala ra chandra, seetala pavana, asankhya tara."_  
+> _"ସକାଳର ଚନ୍ଦ୍ର, ଶୀତଳ ପବନ, ଅସଂଖ୍ୟ ତାରା।"_  
 > — Ramachandra Sahoo

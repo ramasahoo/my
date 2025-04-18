@@ -1,3 +1,4 @@
+<pre ondragstart="return false" onselectstart="return false">
     ଜୀବନ
     ---
 ଜୀବନ ଏକ ଗୋପନୀୟ ର‌ହସ୍ଯ  
@@ -21,7 +22,7 @@
  ପ୍ରଶାନ୍ତିର ଏକ ଚିରନ୍ତନ ଶିଖା  
 
 (ରାମଚନ୍ଦ୍ର)
-
+</pre>
 ---
 
 ## About Me
